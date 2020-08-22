@@ -1,0 +1,6 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit","Param: BATCH_SIZE"
+"jmh.BenchmarkDataStructures.arrayListTest","thrpt",1,2,75430.967158,NaN,"ops/s",1000
+"jmh.BenchmarkDataStructures.hashMapTest","thrpt",1,2,64316.099896,NaN,"ops/s",1000
+"jmh.BenchmarkDataStructures.linkedListTest","thrpt",1,2,73779.183264,NaN,"ops/s",1000
+"jmh.BenchmarkDataStructures.stackTest","thrpt",1,2,79689.763943,NaN,"ops/s",1000
+"jmh.BenchmarkDataStructures.vectorTest","thrpt",1,2,83049.465976,NaN,"ops/s",1000
